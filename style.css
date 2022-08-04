@@ -1,0 +1,30 @@
+* {
+    --color1: #fb8500;
+    --color2: #ffb703;
+    --color3: #023047;
+    --color4: #219EBC;
+    --color5: #8ECAE6;
+}
+
+h1,
+h2 {
+    color: var(--color1);
+    font-family: "Permanent Marker", cursive;
+}
+
+ul {
+    color: var(--color3)
+}
+
+body {
+    background-color: var(--color2);
+    font-family: "Inconsoloata", monospace;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+main {
+    background-color: var(--color3);
+}
